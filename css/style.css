@@ -1,0 +1,67 @@
+.inizio{
+    background-color: lightblue;
+}
+
+#logo {
+    padding: 10px 10px;
+    width: 150px;
+}
+
+#sottotesto{
+    font-weight:light;
+    color: grey;
+    font-size: 16px;
+}
+
+#booleaner {
+    font-weight: lighter;
+    color:blue;
+}
+
+#foto{
+    margin-top: 18px;
+}
+
+#sottofoto {
+    color: black;
+    font-weight: lighter;
+    font-size: 10px;
+}
+
+#paragrafo{
+    color: black;
+    font-weight: lighter;
+}
+
+#highlight{
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 18px;     
+}
+
+table{
+    text-align: left;
+}
+.large-col {
+    width: 50%;
+}
+#cappello{
+    background-color: rgb(75, 75, 230);
+    color: white;
+}
+.even-row{
+    background-color: rgb(179, 179, 179);
+}
+
+footer{
+    margin-top: 30px;
+    padding: 5px 10px;
+    background-color: rgb(35, 35, 171);
+}
+#finale{
+    font-size: smaller;
+    text-align: center;
+    color: white;
+}
