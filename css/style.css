@@ -1,10 +1,10 @@
 .inizio{
     background-color: lightblue;
+    padding: 30px 10px;
 }
 
 #logo {
-    padding: 10px 10px;
-    width: 150px;
+    width: 120px;
 }
 
 #sottotesto{
@@ -37,6 +37,7 @@
     background-color: yellow;
 }
 
+/* Con padding ho capito come dovevo spostare la tabella  */
 ul {
     padding-left: 18px;     
 }
